@@ -26,6 +26,11 @@
           "version": "0.3.3",
           "update_link": "https://raw.githubusercontent.com/cristianbagrin/at-peace-updates/main/xpi/at-peace-0.3.3.xpi",
           "update_hash": "sha256:3eddd273990d7b7f4a982f57c24d47c4154d962d9187b5d62d6301bde6f1f4aa"
+        },
+        {
+          "version": "0.5.0",
+          "update_link": "https://addons.mozilla.org/firefox/downloads/file/5266641/atpeace-0.5.0.xpi",
+          "update_hash": "sha256:2ea7806d6e3ee16fdb2eccfa99732c5da7d8250ef994289e51bf971a3c0a7bc7"
         }
       ]
     }
